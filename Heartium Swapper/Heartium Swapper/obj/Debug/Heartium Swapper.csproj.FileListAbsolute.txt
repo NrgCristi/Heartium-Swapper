@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\bin\Debug\Heartium Swapper.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\bin\Debug\Heartium Swapper.exe
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\bin\Debug\Heartium Swapper.pdb
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\obj\Debug\Heartium Swapper.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\obj\Debug\Heartium_Swapper.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\obj\Debug\Heartium_Swapper.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\obj\Debug\Heartium Swapper.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\obj\Debug\Heartium Swapper.exe
+c:\users\user\documents\visual studio 2015\Projects\Heartium Swapper\Heartium Swapper\obj\Debug\Heartium Swapper.pdb
